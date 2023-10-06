@@ -10,6 +10,7 @@ function App() {
       <h2>{count}</h2>
       <button onClick={() => setCount(count + 1)}>Plus</button>
       <button onClick={() => setCount(count -1)}>Minus</button>
+      <button onClick={() => setCount(0)}>Set to 0</button>
     </>
   );
 }
