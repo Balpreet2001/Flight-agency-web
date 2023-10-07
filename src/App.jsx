@@ -1,16 +1,22 @@
-import { useState } from 'react'
-import './App.css'
-
+// import Footer from "./components/Footer/Footer";
+// import Home from './components/Home/Home';
+// import Info from "./components/Info/Info";
+// import Lounge from "./components/Lounge/Lounge";
+import Navbar from './components/Navbar/Navbar';
+// import Subscribers from './components/Subscribers/Subscribers';
+// import Support from './components/Support/Support';
+// import Travelers from './components/Travelers/Travelers';
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <h1>Hello</h1>
-      <h2>{count}</h2>
-      <button onClick={() => setCount(count + 1)}>Plus</button>
-      <button onClick={() => setCount(count -1)}>Minus</button>
-      <button onClick={() => setCount(0)}>Set to 0</button>
+      {/* <Home /> */}
+      <Navbar />
+      {/* <Travelers />
+      <Info />
+      <Lounge />
+      <Subscribers />
+      <Support />
+      <Footer /> */}
     </>
   );
 }
