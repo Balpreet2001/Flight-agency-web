@@ -1,4 +1,4 @@
-import parisT from '../../assets/photos/Guyparis.jpg';
+import parisT from '../../assets/photos/GuyParis.jpg';
 import parisP from '../../assets/photos/guyP.jpg';
 
 import tokyoT from '../../assets/photos/tokyoT.jpg';
