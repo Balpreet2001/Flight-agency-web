@@ -1,6 +1,6 @@
 import Pic1 from '../../assets/photos/supportPic1.jpg'
 import Pic2 from "../../assets/photos/supportPic2.jpg";
-import Pic3 from "../../assets/photos/supportPic3.jpg";
+import Pic3 from "../../assets/photos/SupportPic3.jpg";
 const Support = () => {
   return (
     <div className="support container section">
