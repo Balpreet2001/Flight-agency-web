@@ -1,8 +1,10 @@
-# React + Vite
+FLIGHT AGENCY WEB APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introduction - Flight agency aims to create a flight booking experience for travellers who love to visit new locations 
 
-Currently, two official plugins are available:
+Tech Stack- Creates using React.JS and SCSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Screenshots:
+![Screenshot (127)](https://github.com/Balpreet2001/Flight-agency-web/assets/61968611/927c2c44-5e6e-4b9b-9425-2b35634fafec)
+![Screenshot (129)](https://github.com/Balpreet2001/Flight-agency-web/assets/61968611/0af00e5a-10ea-4565-b475-fec468d9ce46)
+![Screenshot (128)](https://github.com/Balpreet2001/Flight-agency-web/assets/61968611/282057b1-d49b-4109-8d47-8de113a555af)
